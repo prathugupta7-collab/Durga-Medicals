@@ -1,0 +1,13 @@
+﻿out/
+*.class
+.vscode/
+.idea/
+*.log
+files.txt
+sourcefiles.txt
+sources.txt
+srcfiles.txt
+BillDAO_backup.txt.java
+DBConnectionTest.java
+.env
+config.properties
